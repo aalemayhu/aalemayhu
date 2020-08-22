@@ -35,7 +35,7 @@ For my coding projects, I am spending a lot of time helping out medicine student
 
 ## 🎗Support Me
 
-If you like any of my projects you can support me financially on Patreon.
+If you like any of my projects you can support me on Patreon and get access to some exclusive member benefits 😉
 
 [![Become a Patreon](https://alemayhu.com/become_a_patron_button.png)](https://patreon.com/alemayhu)
 
