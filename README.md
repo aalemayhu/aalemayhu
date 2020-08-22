@@ -14,7 +14,7 @@ Now a days I work as Web Developer but on my own time I am learning about web de
 
 You read right, running❣️ More recently I have discovered the joy of running 🏃‍♀️ The picture is from a fun workout with <a href="https://www.instagram.com/trappefolket/?hl=nb">Trappefolket</a> 😁
 
-I enjoy live streaming open sources projects on my Twitch Channel <a href="http://twitch.tv/alemayhu">alemayhu</a>.You should check it out 😉
+I enjoy live streaming open sources projects on my Twitch Channel <a href="http://twitch.tv/alemayhu">alemayhu</a>. You should check it out 😉
 
 I started out learning HTML / Python before moving on to C++ in order to make video games but left that to make a living with iOS applications. I've also dabbled in Android, Linux Networking, sysadmin stuff and security.
 
