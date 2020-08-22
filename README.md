@@ -28,7 +28,9 @@ My coach is training me to run a 10K under 40 minutes. So dreaming about doing a
 
 For my coding projects, I am spending a lot of time helping out medicine students to create flashcards better and easier with Anki. It's really important for me that these tools are affordable to students, so I make them 100% free. No cost to usage for anyone anywhere in the world 🌎! My most popular project used by medicine students worldwide is:
 
-<a href="http://notion.2anki.net">notion2Anki</a>
+<p align="center">
+  <a href="http://notion.2anki.net">notion2Anki</a>
+</p>
 
 
 ## 🎗Support Me
