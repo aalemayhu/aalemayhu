@@ -1,4 +1,4 @@
-# About Alexander Alemayhu 👨🏾‍💻
+# 💜 Alexander Alemayhu 👨🏾‍💻
 
 Hei there 👋🏾 I was born in Kenya (Nairobi) but now I'm a developer living in Norway.
 I love learning new things especially about spoken and programming languages.
