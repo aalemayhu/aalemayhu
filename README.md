@@ -45,8 +45,6 @@ The preferred way to reach me is over e-mail but for convenience I have added se
 
 📧 Email <a href="mailto:alexander@alemayhu.com">alexander@alemayhu.com</a>
 
-📱 Phone <a href="tel:+4740104387">＋４７４０１０４３８７</a>
-
 🐦 Twitter <a href="https://twitter.com/aalemayhu">@aalemayhu</a>
 
 ⛓ All My Links <a href="https://links.alemayhu.com/">https://links.alemayhu.com/</a>
