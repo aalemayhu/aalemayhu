@@ -9,7 +9,7 @@ Now a days I work as Web Developer but on my own time I am learning about web de
 
 
 <p align="center">
-  <img alt="Photo of Alexander Alemayhu taken by Christopher Gulbrandsen" src="https://alemayhu.com/assets/portrait_2.jpeg" width="256">
+  <img alt="Photo of Alexander Alemayhu taken by Christopher Gulbrandsen" src="https://i.imgur.com/9iuFaPF.jpg" width="256">
 </p>
 
 You read right, running❣️ More recently I have discovered the joy of running 🏃‍♀️ The picture is from a fun workout with <a href="https://www.instagram.com/trappefolket/?hl=nb">Trappefolket</a> 😁
