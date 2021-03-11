@@ -37,7 +37,7 @@ For my coding projects, I am spending a lot of time helping out medicine student
 
 If you like any of my projects you can support me on Patreon and get access to some exclusive member benefits 😉
 
-[![Become a Patreon](https://alemayhu.com/become_a_patron_button.png)](https://patreon.com/alemayhu)
+[![Become a Patreon](https://raw.githubusercontent.com/alemayhu/Notion-to-Anki/master/dist/become_a_patron_button.png)](https://patreon.com/alemayhu)
 
 ## 📧 Contact Me
 
