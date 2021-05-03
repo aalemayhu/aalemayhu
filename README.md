@@ -37,7 +37,7 @@ For my coding projects, I am spending a lot of time helping out medicine student
 
 If you like any of my projects you can support me on Patreon and get access to some exclusive member benefits 😉
 
-[![Become a Patreon](https://raw.githubusercontent.com/alemayhu/Notion-to-Anki/master/web/public/become_a_patron_button.png)
+[![Become a Patreon](https://raw.githubusercontent.com/alemayhu/Notion-to-Anki/master/web/public/become_a_patron_button.png)](https://alemayhu.com/patreon)
 
 <a href='https://ko-fi.com/W7W6QZNY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
