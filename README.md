@@ -1,6 +1,6 @@
 # 💜 Alexander Alemayhu 👨🏾‍💻
 
-Hei there 👋🏾 I was born in Kenya (Nairobi) but now I'm a developer living in Norway.
+Hei there 👋🏾 I was born in Kenya (Nairobi) but now I'm a tech lead living in Norway.
 I love learning new things especially about spoken and programming languages.
 
 I have been writing code since 2010 and started working professionally as a developer in 2011.
