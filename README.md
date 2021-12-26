@@ -5,7 +5,7 @@ I love learning new things especially about spoken and programming languages.
 
 I have been writing code since 2010 and started working professionally as a developer in 2011.
 
-Now a days I work as Web Developer but on my own time I am learning about web design, teaching, [Imba](https://imba.io/) and running.
+When I am not working I am learning about web design, teaching, content creation and running.
 
 
 <p align="center">
