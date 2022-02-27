@@ -27,7 +27,7 @@ For my coding projects, I am spending a lot of time helping out medicine student
 
 <p align="center">
   <a href="http://2anki.net">
-    <img alt="2anki.net" src="http://2anki.net/notion2anki.png" />
+    <img alt="2anki.net" src="http://2anki.net/notion2anki.png" width="512" />
   </a>
 </p>
 
