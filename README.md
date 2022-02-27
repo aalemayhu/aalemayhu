@@ -1,12 +1,12 @@
 # 💜 Alexander Alemayhu 👨🏾‍💻
 
 Hei there 👋🏾 I was born in Kenya (Nairobi) but now I'm a senior developer living in Norway.
+
 I love learning new things especially about spoken and programming languages.
 
 I have been writing code since 2010 and started working professionally as a developer in 2011.
 
 When I am not working I am learning about web design, teaching, content creation and running.
-
 
 <p align="center">
   <img alt="Photo of Alexander Alemayhu taken by Christopher Gulbrandsen" src="https://i.imgur.com/9iuFaPF.jpg" width="256">
@@ -14,7 +14,7 @@ When I am not working I am learning about web design, teaching, content creation
 
 You read right, running❣️ More recently I have discovered the joy of running 🏃‍♀️ The picture is from a fun workout with <a href="https://www.instagram.com/trappefolket/?hl=nb">Trappefolket</a> 😁
 
-As you can guess from the picture, I very much like running up stairs, this photo is from [RA](https://www.rablad.no/trappefolket-kom-til-tinn-3500-tegn-om-3500-trappetrinn/s/5-90-272614) the local newspaper for Tinn.
+As you can guess from the pictures, I very much like running up stairs ❤️ This photo is from [RA](https://www.rablad.no/trappefolket-kom-til-tinn-3500-tegn-om-3500-trappetrinn/s/5-90-272614) the local newspaper for Tinn.
 <p align="center">
   <img alt="Photo of Alexander Alemayhu taken local newspaper Tinn" src="https://github.com/aalemayhu/aalemayhu/blob/master/assets/D54I8121.jpeg" width="256">
 </p>
@@ -40,7 +40,7 @@ For my coding projects, I am spending a lot of time helping out medicine student
 
 ## 🎗Support Me
 
-If you like any of my projects you can support me on Patreon and get access to some exclusive member benefits 😉
+If you like any of my projects you can support me on [Patreon](https://alemayhu.com/patreon) or [Ko-Fi](https://ko-fi.com/W7W6QZNY).
 
 [![Become a Patreon](./assets/become_a_patron_button.png)](https://alemayhu.com/patreon)
 
