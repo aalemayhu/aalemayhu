@@ -13,7 +13,9 @@ You read right, running❣️ More recently I have discovered the joy of running
   <img alt="Photo of Alexander Alemayhu taken local newspaper Tinn" src="https://github.com/aalemayhu/aalemayhu/blob/master/assets/D54I8121.jpeg" width="256">
 </p>
 
-I started out learning HTML / Python before moving on to C++ in order to make video games but left that to make a living with iOS applications. I've also dabbled in Android, Linux Networking, sysadmin stuff and security.
+## Development background
+
+I am a self-taught developer. I started out learning HTML / Python before moving on to C++ in order to make video games but left that to make a living with iOS applications. I've also dabbled in Android, Linux Networking, sysadmin stuff and security.
 
 <p align="center">
   <strong>My dream is to build amazing things that provide value to many people</strong>
