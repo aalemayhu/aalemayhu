@@ -1,4 +1,4 @@
-# 💜 Alexander Alemayhu 👨🏾‍💻
+# 💙 Alexander Alemayhu 👨🏾‍💻
 
 Hei there 👋🏾 I was born in Kenya (Nairobi) but now I'm a senior developer living in Norway.
 
