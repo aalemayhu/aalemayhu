@@ -1,0 +1,15 @@
+# https://docs.github.com/en/graphql/overview/explorer
+# Get contribution count from / to 
+
+query ContributionGraph {
+  user(login: "aalemayhu") {
+    contributionsCollection(
+      from: "2023-02-25T00:00:00+00:00"
+      to: "2023-02-25T00:00:00+00:00"
+    ) {
+      contributionCalendar {
+        totalContributions
+      }
+    }
+  }
+}
