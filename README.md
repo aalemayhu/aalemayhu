@@ -48,4 +48,3 @@ The preferred way to reach me is over e-mail but for convenience I have added se
 
 - 📧 Email <a href="mailto:alexander@alemayhu.com">alexander@alemayhu.com</a>
 - 🐦 Twitter <a href="https://twitter.com/aalemayhu">@aalemayhu</a>
-- 👾 Discord <a href="https://alemayhu.com/discord">Alexander Alemayhu#2407</a>
