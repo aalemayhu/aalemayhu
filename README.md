@@ -4,10 +4,6 @@ Hei there 👋🏾 I was born in Kenya (Nairobi) but now I'm a senior developer 
 
 I love learning new things especially about spoken and programming languages. I have been writing code since 2010 and started working professionally as a developer in 2011. When I am not working I am learning about web design, teaching, content creation and running.
 
-<p align="center">
-  <img alt="Photo of Alexander Alemayhu taken by Christopher Gulbrandsen" src="https://i.imgur.com/9iuFaPF.jpg" width="256">
-</p>
-
 You read right, running❣️ More recently I have discovered the joy of running 🏃‍♀️ The picture is from a fun workout with <a href="https://www.instagram.com/trappefolket/?hl=nb">Trappefolket</a> 😁 As you can guess from the pictures, I very much like running up stairs ❤️ This photo is from [RA](https://www.rablad.no/trappefolket-kom-til-tinn-3500-tegn-om-3500-trappetrinn/s/5-90-272614) the local newspaper for Tinn.
 <p align="center">
   <img alt="Photo of Alexander Alemayhu taken local newspaper Tinn" src="https://github.com/aalemayhu/aalemayhu/blob/master/assets/D54I8121.jpeg" width="256">
