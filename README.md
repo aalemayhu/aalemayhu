@@ -40,6 +40,4 @@ If you like any of my projects you can support me on [Patreon](https://alemayhu.
 
 ## 📧 Contact Me
 
-The preferred way to reach me is over e-mail
-
-- 📧 Email <a href="mailto:alexander@alemayhu.com">alexander@alemayhu.com</a>
+Reach me via email at <a href="mailto:alexander@alemayhu.com">alexander@alemayhu.com</a>.
