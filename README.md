@@ -25,3 +25,6 @@
     </td>
   </tr>
 </table>
+
+
+![Metrics](/github-metrics.svg)
