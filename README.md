@@ -1,5 +1,3 @@
-## Alexander Alemayhu
-
 **Coding for impact: corporate by day, community by night.**
 
 Senior Developer in Norway 🇳🇴, originally from Kenya 🇰🇪. 12+ years building software — from product UIs to TCP/IP internals.
